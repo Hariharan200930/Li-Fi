@@ -27,15 +27,15 @@ Transmission : The transmission module receives
  is later appended at the end and beginning of the
  data being transferred to identify and recover data
  in case of data loss
-
-receiver side circuit:</n>
+<br />
+receiver side circuit:<br />
 <img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/e30624af-9a2c-4e39-8fa7-fa468af83d91" width="400" height="400" />
-</n>
-sender side circuit: </n>
+<br />
+sender side circuit: <br />
 <img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/3ec8840e-be53-4bc3-a2cf-971ed56ec4b5" width="400" height="400" />
-
-receiver side output:
-<img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/429644ef-8c65-47e5-ac80-69beef83a8da" width="200" height="400" />
-intermediate code:
-<img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/d57bf61b-3ef7-4304-90ab-c619f4f22b54" width="200" height="400" />
+<br />
+receiver side output:<br />
+<img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/429644ef-8c65-47e5-ac80-69beef83a8da" width="200" height="400" /><br />
+intermediate code:<br />
+<img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/d57bf61b-3ef7-4304-90ab-c619f4f22b54" width="200" height="400" /><br />
 
