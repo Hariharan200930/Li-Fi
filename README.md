@@ -35,7 +35,7 @@ sender side circuit: <br />
 <img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/3ec8840e-be53-4bc3-a2cf-971ed56ec4b5" width="400" height="400" />
 <br />
 receiver side output:<br />
-<img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/429644ef-8c65-47e5-ac80-69beef83a8da" width="200" height="400" /><br />
+<img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/429644ef-8c65-47e5-ac80-69beef83a8da" width="500" height="500" /><br />
 intermediate code:<br />
-<img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/d57bf61b-3ef7-4304-90ab-c619f4f22b54" width="200" height="400" /><br />
+<img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/d57bf61b-3ef7-4304-90ab-c619f4f22b54" width="500" height="500" /><br />
 
