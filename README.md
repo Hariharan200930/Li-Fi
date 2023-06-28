@@ -30,8 +30,8 @@ Transmission : The transmission module receives
 
 receiver side circuit:</n>
 <img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/e30624af-9a2c-4e39-8fa7-fa468af83d91" width="400" height="400" />
-</>
-sender side circuit:
+</n>
+sender side circuit: /n
 <img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/3ec8840e-be53-4bc3-a2cf-971ed56ec4b5" width="400" height="400" />
 
 receiver side output:
