@@ -29,9 +29,9 @@ Transmission : The transmission module receives
  in case of data loss
 
 receiver side circuit:
-<img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/e30624af-9a2c-4e39-8fa7-fa468af83d91" width="500" height="500" />
+<img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/e30624af-9a2c-4e39-8fa7-fa468af83d91" width="400" height="400" />
 sender side circuit:
-<img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/3ec8840e-be53-4bc3-a2cf-971ed56ec4b5" width="200" height="400" />
+<img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/3ec8840e-be53-4bc3-a2cf-971ed56ec4b5" width="400" height="400" />
 
 receiver side output:
 <img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/429644ef-8c65-47e5-ac80-69beef83a8da" width="200" height="400" />
