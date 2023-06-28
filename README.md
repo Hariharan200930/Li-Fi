@@ -27,6 +27,21 @@ Transmission : The transmission module receives
  is later appended at the end and beginning of the
  data being transferred to identify and recover data
  in case of data loss
+
+ Receiver : Module with the help of LDR where the
+ binary value ‘0’ is considered when the circuit
+ around the LDR is broken i.e., the time duration
+ when the light is not appearing over the LDR, the
+ binary value ‘1’ is considered when the circuit
+ around the LDR is complete i.e., the time duration
+ when the light falls over the sensor.
+ 
+ Decoder : The decoder is a sub-module of receiver
+ module where it receivers the raw binary data from
+ the receiver module and converts it into its
+ respective format with the help of KEY from the
+ receiver side as mentioned before to decrypt the
+ encrypted data
 <br />
 receiver side circuit:<br />
 <img src="https://github.com/Hariharan200930/Li-Fi/assets/129237134/e30624af-9a2c-4e39-8fa7-fa468af83d91" width="400" height="400" />
